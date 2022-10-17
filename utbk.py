@@ -17,4 +17,4 @@ def hitungBING():
   return(bing)
 while True:
   skorUTBK = (float(hitungTPS()+hitungTKASAINTEK()+hitungBING()) / 3)
-  print("Total Skor UTBK Anda:", skorUTBK)
+  print("Skor UTBK Anda:", skorUTBK)
